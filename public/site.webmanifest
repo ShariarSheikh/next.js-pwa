@@ -1,0 +1,21 @@
+{
+    "name": "Shariar-PWA",
+    "short_name": "Shariar-PWA",
+    "description": "Next.js Pwa application with typescript, tailwind css",
+    "theme_color": "#0d1441",
+    "background_color": "#0d1441",
+    "display": "standalone",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
